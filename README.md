@@ -1,8 +1,8 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"
+
 <h1 align="center">Hi 👋, I'm Sanidhya Pandey</h1>
 <h3 align="center"> Third year Software development student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanid1707&label=Profile%20views&color=0e75b6&style=flat" alt="sanid1707" /> </p>
