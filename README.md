@@ -6,7 +6,7 @@
 
   <body>
       <h1>Hi 👋, I'm Sanidhya Pandey</h1>
-      <h3>Third year Software development student</h3>
+      <h3>Final year Software development student</h3>
     <img
       class="gif"
       src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif"
